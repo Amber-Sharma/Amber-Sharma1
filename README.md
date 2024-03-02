@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Amber Sharma</h1>
 <h3 align="center">A passionate QA Engineer from India.</h3>
+<div align="center"> <img src="https://www.pureecosoft.com/public/img/services/quality-assurance-banner.png"> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amber-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="amber-sharma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amber-sharma" alt="amber-sharma" /></a> </p>
+
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I’m currently learning **Automation Testing.**
 
